@@ -28,8 +28,7 @@
 	"dependencies": {
 		"@astrojs/rss": "4.0.1",
 		"astro": "4.0.8",
-		"astro-font": "^0.0.72",
-		"lucide-astro": "^0.372.0"
+		"astro-font": "^0.0.72"
 	},
 	"devDependencies": {
 		"@astrojs/mdx": "2.0.3",
