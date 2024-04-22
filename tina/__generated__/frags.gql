@@ -1,0 +1,11 @@
+fragment PostParts on Post {
+  __typename
+  heroImage
+  category
+  description
+  pubDate
+  draft
+  tags
+  title
+  SButton
+}
